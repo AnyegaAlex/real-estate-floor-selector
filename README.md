@@ -7,7 +7,7 @@ An interactive frontend prototype that lets users explore towers, choose floors,
 ## 🔗 Live Demo
 
 🌐 [Live Demo](https://real-estate-floor-selector-mu.vercel.app/)  
-🎥 [Walkthrough Video (Loom)](https://loom.com/share/your-video-link)
+🎥 [Walkthrough Video (Loom)](https://www.loom.com/share/cf3f486323e34f7ca539fc0de9a49b68?sid=3f051e0a-c15b-48dd-8b71-a1515e8aa737)
 
 ---
 
