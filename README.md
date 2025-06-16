@@ -85,5 +85,19 @@ http://localhost:5173
 - Placeholder images only
 
 📸 Preview Screenshots
-Towers View	Floor Selector	Layout Gallery	Layout Detail
+## Towers View	
+![image](https://github.com/user-attachments/assets/6535fb88-b516-4a6c-98ff-cfba0f4b8508)
+
+
+## Floor Selector	
+![image](https://github.com/user-attachments/assets/deb60446-9a59-49b9-86b6-0a91c2bfeb78)
+
+
+## Unit Gallery	
+![image](https://github.com/user-attachments/assets/29972410-5468-433f-bf37-30d0d520c93a)
+
+
+## Unit Detail
+![image](https://github.com/user-attachments/assets/2f7cfd75-26e5-4ae7-83ef-0f8bcd94c510)
+
 
